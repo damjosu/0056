@@ -33,4 +33,6 @@ public class ClubDemo
                            club.numberOfMembers() +
                            " members.");
     }
+    
+    public test()
 }
